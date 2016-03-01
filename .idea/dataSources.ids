@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails JGisin: development" uuid="651c9116-983b-414a-8191-47971722dfab">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails JGisin: production" uuid="231ae3dd-e080-407a-a106-e8fee876f572">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails JGisin: test" uuid="4cf8fa78-a226-4edb-b0e1-a08b306d1a41">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
