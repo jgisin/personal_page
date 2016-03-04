@@ -29,7 +29,7 @@ gem 'mechanize'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+gem 'rails_12factor', group: :production
 gem 'animate-rails'
 gem 'paperclip'
 
