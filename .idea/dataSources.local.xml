@@ -2,15 +2,17 @@
 <project version="4">
   <component name="dataSourceStorageLocal">
     <data-source name="Rails JGisin: development" uuid="651c9116-983b-414a-8191-47971722dfab">
-      <first-sync>true</first-sync>
+      <schema-pattern>JGisin_development.*</schema-pattern>
+      <default-schemas>JGisin_development.*</default-schemas>
     </data-source>
     <data-source name="Rails JGisin: production" uuid="231ae3dd-e080-407a-a106-e8fee876f572">
       <first-sync>true</first-sync>
-      <user-name>JGisin</user-name>
+      <user-name>jgisin</user-name>
       <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe0dfeddfe3dff9dfe3dfe4dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
     </data-source>
     <data-source name="Rails JGisin: test" uuid="4cf8fa78-a226-4edb-b0e1-a08b306d1a41">
-      <first-sync>true</first-sync>
+      <schema-pattern>JGisin_test.*</schema-pattern>
+      <default-schemas>JGisin_test.*</default-schemas>
     </data-source>
   </component>
 </project>

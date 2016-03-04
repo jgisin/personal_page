@@ -1,0 +1,17 @@
+<%= form_for @site do |site_field| %>
+
+    <%= site_field.label :title, class: 'subtext'%>
+    <%= site_field.text_field :title, class: 'form-control'%><br/>
+    <%= site_field.label :subheading, class: 'subtext'%>
+    <%= site_field.text_field :subheading, class: 'form-control' %><br/>
+    <%= site_field.label :description, class: 'subtext'%>
+    <%= site_field.text_field :description, class: 'form-control' %><br/>
+    <%= site_field.label :url, class: 'subtext'%>
+    <%= site_field.text_field :url, class: 'form-control' %><br/>
+    <%= site_field.label :url_image, class: 'subtext'%>
+    <%= site_field.file_field :url_image, class: 'form-control' %><br/>
+    <%= site_field.submit "Create Site", class: 'btn btn-lg btn-primary' %>
+
+
+
+<% end %>

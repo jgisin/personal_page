@@ -1,0 +1,81 @@
+
+
+<div class="container">
+
+  <!-- Portfolio Item Heading -->
+  <div class="row">
+
+    <div class="col-lg-10 col-xs-offset-2">
+
+      <h1 class="subtext"><%= @site.title %>
+        <small><%= @site.subheading %></small>
+      </h1>
+    </div>
+  </div>
+  <!-- /.row -->
+
+  <!-- Portfolio Item Row -->
+  <div class="row">
+    <div id="main" class="row">
+
+      <div id="sidebar" class="col-sm-2">
+        <nav id="sidebar-nav">
+          <br/><br/><br/>
+          <ul>
+            <li><a class="animated bounceInLeft" id="side-home" href="/">Home</a>
+            <li><a class="animated bounceInLeft" id="side-resume" href="<%= resumes_path %>">Resume</a>
+            <li><a class="animated bounceInLeft" id="side-work" href="<%= sites_path %>">Portfolio</a>
+            <!--<li><a class="animated bounceInLeft" id="side-contact" href="#">Contact</a>-->
+          </ul>
+        </nav>
+      </div>
+
+    <div class="col-md-6">
+    <a href="<%= @site.url %>">
+      <%= image_tag @site.url_image(:preview) %>
+    </a>
+    </div>
+
+    <div class="col-md-4" id="content">
+      <h3 class="subtext">Project Description</h3>
+      <p><%= @site.description %></p>
+    </div>
+
+  </div>
+  <!-- /.row -->
+
+  <!-- Related Projects Row -->
+  <div class="row">
+
+    <div class="col-lg-9 col-xs-offset-2">
+      <h3 class="subtext">Related Projects</h3>
+      <hr>
+    </div>
+    <div class="col-sm-10 col-sm-offset-2">
+      <% @sites.each do |site| %>
+          <% unless site.id == params[:id].to_i %>
+            <div class="col-sm-3 col-xs-6">
+              <a href="<%= site_path(site) %>">
+                <%= image_tag site.url_image, class: 'img-responsive portfolio-item' %>
+              </a><br/>
+              <p class="subtext text-center" style="font-size: 24px"><%= site.title %></p>
+            </div>
+          <% end %>
+      <% end %>
+    </div>
+  <!-- /.row -->
+
+    </div>
+  </div>
+</div>
+  <!-- Footer -->
+  <footer>
+    <div class="row">
+      <div class="col-lg-9 col-xs-offset-2">
+        <hr>
+        <p class="subtext" style="font-size: 12px;">Copyright &copy; Jeffrey Gisin</p>
+      </div>
+    </div>
+    <!-- /.row -->
+  </footer>
+

@@ -1,0 +1,68 @@
+<div id="header" class="row text-center">
+  <div id="logo">
+        <span id="danger">
+          <span class="jj animated bounceInDown">J</span>
+          <span class="je animated bounceInDown">E</span>
+          <span class="jf animated bounceInDown">F</span>
+          <span class="jff animated bounceInDown">F</span>
+          <span class="jr animated bounceInDown">R</span>
+          <span class="jee animated bounceInDown">E</span>
+          <span class="jy animated bounceInDown">Y</span>
+        </span>&nbsp;
+        <span id="zone">
+          <span class="gg animated bounceInDown">G</span>
+          <span class="gi animated bounceInDown">I</span>
+          <span class="gs animated bounceInDown">S</span>
+          <span class="gii animated bounceInDown">I</span>
+          <span class="gn animated bounceInDown">N</span>
+        </span>
+  </div>
+
+  <nav class="animated bounceInLeft" id="main-nav">
+    <!--<ul class="list-unstyled list-inline">-->
+    <!--<li><a id="demo-1" class="animated btn btn-danger" href="index.html.erb">Demo 1</a></li>-->
+    <!--<li><a id="demo-2" class="animated btn btn-danger" href="two.html">Demo 2</a></li>-->
+    <!--<li><a id="demo-3" class="animated btn btn-danger" href="three.html">Demo 3</a></li>-->
+    <!--</ul>-->
+    <span class="subtext"> Full Stack Web Developer </span>
+  </nav>
+</div>
+
+<div id="main" class="row">
+  <div id="sidebar" class="col-sm-3">
+    <nav id="sidebar-nav">
+      <br/><br/><br/>
+      <ul>
+        <li><a id="side-home" class="animated bounceInLeft" href="#">Home</a>
+        <li><a id="side-resume" class="animated bounceInLeft" href="<%= resumes_path %>">Resume</a>
+        <li><a id="side-work" class="animated bounceInLeft" href="<%= sites_path %>">Portfolio</a>
+        <!--<li><a id="side-contact" class="animated bounceInLeft" href="#">Contact</a>-->
+      </ul>
+    </nav>
+  </div>
+
+  <div id="content" class="animated bounceInUp col-sm-8">
+
+    <div class="row">
+
+      <div class="col-sm-8 col-sm-offset-1">
+        <h4 class="subtext">Recent Posts</h4>
+        <hr>
+        <!--<br/>-->
+        <!--<p>Welcome to my personal showcase and portfolio. I hope to showcase my skills-->
+          <!--in both the front end flash, and back end structure. Everything you see is built-->
+          <!--with a Ruby on Rails backend, connected to a variety of front-end platforms. </p>-->
+
+        <!--<p>Poke around and see if you can find the easter eggs scattered throughout. Find-->
+          <!--enough and you may unlock a little bonus content!</p>-->
+
+        <% @num_posts.times do |index| %>
+            <h3><%= @posts.post(index)[:title] %></h3>
+            <p><%= @posts.post(index)[:text] %></p>
+            <a href="<%= @posts.post(index)[:link] %>">Read More...</a>
+        <% end %>
+      </div>
+
+    </div>
+  </div>
+</div>

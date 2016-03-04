@@ -1,0 +1,201 @@
+<div id="main" class="row">
+  <div id="sidebar" class="col-sm-2">
+    <nav id="sidebar-nav">
+      <br/><br/><br/>
+      <ul>
+        <li><a class="animated bounceInLeft" id="side-home" href="/">Home</a>
+        <li><a class="animated bounceInLeft" id="side-resume" href="<%= resumes_path %>">Resume</a>
+        <li><a class="animated bounceInLeft" id="side-work" href="<%= sites_path %>">Portfolio</a>
+        <!--<li><a class="animated bounceInLeft" id="side-contact" href="#">Contact</a>-->
+      </ul>
+    </nav>
+  </div>
+
+<div class="wrapper">
+    <div class="sidebar-wrapper">
+        <div class="profile-container">
+            <%= image_tag "profile_thumb.jpg", class: "profile" %>
+            <h1 class="name">Jeffrey Gisin</h1>
+            <h3 class="tagline">Full Stack Developer</h3>
+        </div><!--//profile-container-->
+
+        <div class="contact-container container-block">
+            <ul class="list-unstyled contact-list">
+                <li class="email"><i class="fa fa-envelope"></i><a href="mailto: jgisin@gmail.com">jgisin@gmail.com</a></li>
+                <li class="phone"><i class="fa fa-phone"></i><a href="tel:13039073523">303 907 3523</a></li>
+                <li class="website"><i class="fa fa-globe"></i><a href="http://www.jgisin.com" target="_blank">Homepage</a></li>
+                <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://www.linkedin.com/in/jgisin" target="_blank">LinkedIn</a></li>
+                <li class="github"><i class="fa fa-github"></i><a href="https://github.com/jgisin" target="_blank">Github</a></li>
+                <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/tempest280" target="_blank">Twitter</a></li>
+            </ul>
+        </div><!--//contact-container-->
+        <div class="education-container container-block">
+            <h2 class="container-block-title">Education</h2>
+            <div class="item">
+                <h4 class="degree">Electrical Engineering</h4>
+                <h5 class="meta">University of Colorado at Denver</h5>
+                <div class="time">2012</div>
+            </div><!--//item-->
+            <div class="item">
+                <h4 class="degree">Viking Code School</h4>
+                <h5 class="meta">Coding Bootcamp</h5>
+                <div class="time">2016</div>
+            </div><!--//item-->
+        </div><!--//education-container-->
+
+        <div class="languages-container container-block">
+            <h2 class="container-block-title">Languages</h2>
+            <ul class="list-unstyled interests-list">
+                <li>English <span class="lang-desc">(Native)</span></li>
+                <li>Russian <span class="lang-desc">(Fluent)</span></li>
+            </ul>
+        </div><!--//interests-->
+
+        <div class="interests-container container-block">
+            <h2 class="container-block-title">Interests</h2>
+            <ul class="list-unstyled interests-list">
+                <li>Hockey</li>
+                <li>Skiing</li>
+                <li>Travel</li>
+            </ul>
+        </div><!--//interests-->
+
+    </div><!--//sidebar-wrapper-->
+
+    <div class="main-wrapper">
+
+        <section class="section summary-section">
+            <h2 class="section-title"><i class="fa fa-user"></i>Career Profile</h2>
+            <div class="summary">
+                <p>Talented full stack web developer with strong foundation in object oriented programming and web design. Articulate and comfortable in varied teamwork heavy environments. Dedicated to embracing and learning new technologies and modern methodologies.</p>
+            </div><!--//summary-->
+        </section><!--//section-->
+
+        <section class="section experiences-section">
+            <h2 class="section-title"><i class="fa fa-briefcase"></i>Experiences</h2>
+
+            <div class="item">
+                <div class="meta">
+                    <div class="upper-row">
+                        <h3 class="job-title">Electrical Designer/ IT Manager</h3>
+                        <div class="time">2012-2015</div>
+                    </div><!--//upper-row-->
+                    <div class="company">RG Engineering Consultants - Denver, CO</div>
+                </div><!--//meta-->
+                <div class="details">
+                    <p>Maintained organization's web presence and IT infrastructure while continuing duties as Electrical Designer. Managed FTP file sharing, project file backups, and company knowledgebase.</p>
+                </div><!--//details-->
+            </div><!--//item-->
+
+            <div class="item">
+                <div class="meta">
+                    <div class="upper-row">
+                        <h3 class="job-title">Electrical Designer</h3>
+                        <div class="time">2010-2012</div>
+                    </div><!--//upper-row-->
+                    <div class="company">Cator Ruma and Associates - Lakewood, CO</div>
+                </div><!--//meta-->
+                <div class="details">
+                    <p>Created company knowledge-base with MySQL backed Atlassian Confluence wiki-site in addition to regular Engineering duties. Served as software troubleshooter to other employees.</p>
+
+                </div><!--//details-->
+            </div><!--//item-->
+
+            <div class="item">
+                <div class="meta">
+                    <div class="upper-row">
+                        <h3 class="job-title">Co-Owner</h3>
+                        <div class="time">2003-2006</div>
+                    </div><!--//upper-row-->
+                    <div class="company">Jazz Computers</div>
+                </div><!--//meta-->
+                <div class="details">
+                    <p>Started a boutique custom PC building company. Designed e-commerce website and brand media. Eventually merged with Aevium Web Marketing firm and helped build the Aevium Technologies brand.</p>
+                </div><!--//details-->
+            </div><!--//item-->
+
+        </section><!--//section-->
+
+        <section class="section projects-section">
+            <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
+            <div class="intro">
+                <p>Here is a list of relevant project work. The links take you to the Github repositories for a better sampling of my coding style. For application demonstrations, please visit my portfolio.</p>
+            </div><!--//intro-->
+            <div class="item">
+                <span class="project-title"><a href="https://github.com/jgisin/danebook">Danebook</a></span> - <span class="project-tagline">A social networking site with commenting, liking posts, photo uploads (AWS), email notifications (SendGrid), test suite (RSpec, Capybara), backed by a Postgres database.</span>
+
+            </div><!--//item-->
+            <div class="item">
+                <span class="project-title"><a href="https://github.com/jgisin/pokequiz" target="_blank">PokeQuiz</a></span> -
+                <span class="project-tagline">A hack-a-thon style app built by me and a small team in 36 hours. Tested (RSpec), utilizes a web scraper and third party API, custom logging, email notifications, AWS file uploads, twitter-style user following, leaderboard stats.</span>
+            </div><!--//item-->
+            <div class="item">
+                <span class="project-title"><a href="https://github.com/jgisin/project_viking_store" target="_blank">Viking Store</a></span> - <span class="project-tagline">E-commerce style application with shopping carts, order/product tracking, admin dashboard, admin portal.</span>
+            </div><!--//item-->
+            <div class="item">
+                <span class="project-title"><a href="https://github.com/jgisin/elec_calcs" target="_blank">Elec Calcs</a></span> - <span class="project-tagline">Computation and document creation for Electrical Engineers. Built on Rails with ajax partial rendering. </span>
+            </div><!--//item-->
+        </section><!--//section-->
+
+        <section class="skills-section section">
+            <h2 class="section-title"><i class="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
+            <div class="skillset">
+                <div class="item">
+                    <h3 class="level-title">Ruby</h3>
+                    <div class="level-bar">
+                        <div class="level-bar-inner" data-level="98%">
+                        </div>
+                    </div><!--//level-bar-->
+                </div><!--//item-->
+
+                <div class="item">
+                    <h3 class="level-title">Javascript &amp; jQuery</h3>
+                    <div class="level-bar">
+                        <div class="level-bar-inner" data-level="90%">
+                        </div>
+                    </div><!--//level-bar-->
+                </div><!--//item-->
+
+                <div class="item">
+                    <h3 class="level-title">Angular</h3>
+                    <div class="level-bar">
+                        <div class="level-bar-inner" data-level="90%">
+                        </div>
+                    </div><!--//level-bar-->
+                </div><!--//item-->
+
+                <div class="item">
+                    <h3 class="level-title">HTML5 &amp; CSS</h3>
+                    <div class="level-bar">
+                        <div class="level-bar-inner" data-level="98%">
+                        </div>
+                    </div><!--//level-bar-->
+                </div><!--//item-->
+
+                <div class="item">
+                    <h3 class="level-title">Ruby on Rails</h3>
+                    <div class="level-bar">
+                        <div class="level-bar-inner" data-level="98%">
+                        </div>
+                    </div><!--//level-bar-->
+                </div><!--//item-->
+
+                <div class="item">
+                    <h3 class="level-title">Sketch &amp; Photoshop</h3>
+                    <div class="level-bar">
+                        <div class="level-bar-inner" data-level="50%">
+                        </div>
+                    </div><!--//level-bar-->
+                </div><!--//item-->
+
+            </div>
+        </section><!--//skills-section-->
+
+    </div><!--//main-body-->
+</div>
+
+
+
+<!-- custom js -->
+<script type="text/javascript" src="assets/js/main.js"></script>
+</div>
