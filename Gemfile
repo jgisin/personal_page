@@ -31,6 +31,7 @@ gem 'mechanize'
 # gem 'capistrano-rails', group: :development
 gem 'rails_12factor', group: :production
 gem 'animate-rails'
+gem "font-awesome-rails"
 gem 'paperclip'
 
 group :development, :test do
