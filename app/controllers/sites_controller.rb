@@ -1,4 +1,6 @@
 class SitesController < ApplicationController
+  before_action :authenticate_user, :only => [:create, :update, :destroy]
+  USERS = { "jgisin" => "jeff0708" }
 
   def index
     @sites = Site.all
@@ -48,5 +50,13 @@ class SitesController < ApplicationController
 
   def site_params
     params.require(:site).permit(:title, :subheading, :description, :url,  :url_image)
+  end
+
+  private
+  # The HTTP Digest version (better)
+  def authenticate_user
+    authenticate_or_request_with_http_digest do |username|
+      USERS[username]
+    end
   end
 end

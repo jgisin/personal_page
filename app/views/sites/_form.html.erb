@@ -12,6 +12,8 @@
     <%= site_field.file_field :url_image, class: 'form-control' %><br/>
     <%= site_field.submit "Create Site", class: 'btn btn-lg btn-primary' %>
 
-
+    <% if !@site.id.nil? %>
+      <%= link_to "Delete Project", site_path(@site), class: 'btn btn-lg btn-danger', method: :delete %>
+    <% end %>
 
 <% end %>
