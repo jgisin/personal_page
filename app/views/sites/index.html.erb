@@ -13,7 +13,7 @@
   <h1 class="subtext text-center">Projects</h1><hr><br/><br/>
   <div class="col-sm-10">
     <% @sites.each do |site| %>
-    <div class="col-sm-4">
+    <div class="col-sm-4 portrow">
       <a href="<%= site_path(site) %>">
         <%= image_tag site.url_image, class: 'img-responsive portfolio-item' %>
       </a><br/>
