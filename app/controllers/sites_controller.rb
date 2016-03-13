@@ -8,7 +8,7 @@ class SitesController < ApplicationController
 
   def show
     @site = Site.find(params[:id])
-    @sites = Site.all.limit(3)
+    @sites = Site.all.limit(4)
   end
 
   def new
