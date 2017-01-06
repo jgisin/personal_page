@@ -2,6 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ad0f984-140b-4869-ab31-c7aa77c23fec" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Statics/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Statics/css/timeline.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Statics/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Statics/resume.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Viking/danebook/README.rdoc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/components/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/controllers/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/helpers/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/models/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/models/character.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/models/photo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/models/tag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/resolver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/router.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/routes/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/routes/photos.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/routes/photos/play.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/styles/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/templates/application.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/templates/components/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/templates/photos.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/templates/photos/index.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/templates/photos/play.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../config/environment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ember-cli-build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/crossdomain.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tags.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tags.temp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../testem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/helpers/destroy-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/helpers/module-for-acceptance.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/helpers/resolver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/helpers/start-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/integration/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/test-helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/unit/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/unit/models/character-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/unit/models/photo-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/unit/models/tag-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/unit/routes/photos-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../tests/unit/routes/photos/play-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../vendor/.gitkeep" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Before Program/assignment_danebook_homepage" afterPath="$PROJECT_DIR$/../Before Program/assignment_danebook_homepage" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Before Program/assignment_ruby_warmup" afterPath="$PROJECT_DIR$/../Before Program/assignment_ruby_warmup" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Before Program/assignment_toh" afterPath="$PROJECT_DIR$/../Before Program/assignment_toh" />
@@ -33,19 +83,46 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/2-2-16/project_viking_store" afterPath="$PROJECT_DIR$/../Viking/2-2-16/project_viking_store" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/2-22-16/assignment_photos_emails_delays" afterPath="$PROJECT_DIR$/../Viking/2-22-16/assignment_photos_emails_delays" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/2-8-16/project_dating" afterPath="$PROJECT_DIR$/../Viking/2-8-16/project_dating" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/3-10-16/assignment_js_design_patterns" afterPath="$PROJECT_DIR$/../Viking/3-10-16/assignment_js_design_patterns" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/3-10-16/project_game_center_browser" afterPath="$PROJECT_DIR$/../Viking/3-10-16/project_game_center_browser" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/3-14-15/assignment_js_oop" afterPath="$PROJECT_DIR$/../Viking/3-14-15/assignment_js_oop" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/3-15-16/project_tetris_js" afterPath="$PROJECT_DIR$/../Viking/3-15-16/project_tetris_js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/3-16-16/assignment_module_pattern" afterPath="$PROJECT_DIR$/../Viking/3-16-16/assignment_module_pattern" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/3-17-16/assignment_ajax_puppies" afterPath="$PROJECT_DIR$/../Viking/3-17-16/assignment_ajax_puppies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/3-18-16/assignment_rails_api" afterPath="$PROJECT_DIR$/../Viking/3-18-16/assignment_rails_api" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/3-8-16/assignment_build_jquery" afterPath="$PROJECT_DIR$/../Viking/3-8-16/assignment_build_jquery" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/3-9-16/assignment_jq_ee_sprint" afterPath="$PROJECT_DIR$/../Viking/3-9-16/assignment_jq_ee_sprint" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/456_def" afterPath="$PROJECT_DIR$/../Viking/456_def" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/Algorithms/trerray" afterPath="$PROJECT_DIR$/../Viking/Algorithms/trerray" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/Galaga" afterPath="$PROJECT_DIR$/../Viking/Galaga" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/Linked List Algorithm" afterPath="$PROJECT_DIR$/../Viking/Linked List Algorithm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/bear_necessities" afterPath="$PROJECT_DIR$/../Viking/bear_necessities" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/foo_bar_lives" afterPath="$PROJECT_DIR$/../Viking/foo_bar_lives" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/pokequiz" afterPath="$PROJECT_DIR$/../Viking/pokequiz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/practice/assignment_recursion_sprint" afterPath="$PROJECT_DIR$/../Viking/practice/assignment_recursion_sprint" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/project_dom_tree" afterPath="$PROJECT_DIR$/../Viking/project_dom_tree" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/project_viking_store" afterPath="$PROJECT_DIR$/../Viking/project_viking_store" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/sinatra_test/sinatra123" afterPath="$PROJECT_DIR$/../Viking/sinatra_test/sinatra123" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/tree_trie_tro_trum" afterPath="$PROJECT_DIR$/../Viking/tree_trie_tro_trum" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/sites_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/sites_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/.idea/danebook.iml" afterPath="$PROJECT_DIR$/../Viking/danebook/.idea/danebook.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Viking/danebook/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/Gemfile" afterPath="$PROJECT_DIR$/../Viking/danebook/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/Gemfile.lock" afterPath="$PROJECT_DIR$/../Viking/danebook/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/assets/javascripts/newsfeeds.coffee" afterPath="$PROJECT_DIR$/../Viking/danebook/app/assets/javascripts/newsfeeds.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/controllers/comments_controller.rb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/controllers/comments_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/controllers/newsfeeds_controller.rb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/controllers/newsfeeds_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/controllers/posts_controller.rb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/controllers/posts_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/controllers/users_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/models/comment.rb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/models/comment.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/models/post.rb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/models/post.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/views/newsfeeds/_modalcomment.html.erb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/views/newsfeeds/_modalcomment.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/views/newsfeeds/_post.html.erb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/views/newsfeeds/_post.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/views/newsfeeds/index.html.erb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/views/newsfeeds/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/views/users/_modalcomment.html.erb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/views/users/_modalcomment.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/views/users/_modalinvites.html.erb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/views/users/_modalinvites.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/views/users/_post.html.erb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/views/users/_post.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/danebook/app/views/users/timeline.html.erb" afterPath="$PROJECT_DIR$/../Viking/danebook/app/views/users/timeline.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Viking/waldo/project_wheres_waldo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Viking/waldo/project_wheres_waldo/.idea/workspace.xml" />
     </list>
     <ignored path="JGisin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,38 +163,8 @@
       <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/sites/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.538462">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/sites/show.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.384615">
-              <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -126,18 +173,38 @@
       <file leaf-file-name="sites.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/sites.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.8461537">
+            <state vertical-scroll-proportion="0.0">
               <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sites_controller.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/controllers/sites_controller.rb">
+      <file leaf-file-name="resumes.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/resumes.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35460994">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="89" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="static_pages.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="52" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap-social.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap-social.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="124" selection-start-line="9" selection-start-column="124" selection-end-line="9" selection-end-column="124" />
               <folding />
             </state>
           </provider>
@@ -147,20 +214,38 @@
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+              <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="secrets.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/secrets.yml">
+      <file leaf-file-name="application.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-              <folding>
-                <marker date="1457762590000" expanded="true" signature="903:1062" placeholder="production:" />
-              </folding>
+              <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="static_pages_controller.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14010508">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="medium_scraper.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/medium/medium_scraper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -209,7 +294,6 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap-social.css" />
         <option value="$PROJECT_DIR$/app/views/resumes/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
-        <option value="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/sites/show.html.erb" />
         <option value="$PROJECT_DIR$/app/views/sites/_form.html.erb" />
@@ -221,6 +305,7 @@
         <option value="$PROJECT_DIR$/app/models/site.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/sites_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
       </list>
     </option>
   </component>
@@ -240,7 +325,7 @@
     <option name="x" value="-33" />
     <option name="y" value="-1027" />
     <option name="width" value="1680" />
-    <option name="height" value="955" />
+    <option name="height" value="962" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -267,9 +352,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -370,7 +452,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGisin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGisin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGisin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JGisin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medium" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -430,6 +552,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="RailsProjectView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -445,12 +570,12 @@
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/views/static_pages" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/views/sites" />
       <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/static_pages" />
     </key>
   </component>
   <component name="RunManager" selected="Rails.Development: JGisin">
@@ -651,28 +776,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-33" y="-1027" width="1680" height="955" extended-state="0" />
-    <editor active="true" />
+    <frame x="-33" y="-1027" width="1680" height="962" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25946277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2716728" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31402087" sideWeight="0.24175824" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31149426" sideWeight="0.25641027" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912844" sideWeight="0.492674" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35080215" sideWeight="0.486569" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31402087" sideWeight="0.7582418" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31149426" sideWeight="0.74358976" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20354906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35080215" sideWeight="0.486569" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.497558" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -703,7 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,7 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="89" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -735,7 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -751,7 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="75" column="54" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -759,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -775,7 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -783,7 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -791,7 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="89" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -799,7 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,7 +930,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -838,7 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -861,7 +974,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -876,13 +988,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1018364">
           <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/medium/medium_scraper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -911,7 +1016,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23372287">
           <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -929,13 +1033,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0769231">
-          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48442906">
@@ -947,22 +1044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap-social.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="146" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -970,15 +1051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34055728">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/resumes.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.7244582">
-          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="89" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -986,15 +1058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.4241486">
           <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1002,31 +1065,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55727553">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.9195046">
-          <caret line="62" column="106" selection-start-line="62" selection-start-column="106" selection-end-line="62" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/sites/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.538462">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/sites.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.8461537">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1034,15 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1050,17 +1079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-          <folding>
-            <marker date="1457762590000" expanded="true" signature="903:1062" placeholder="production:" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/site.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1074,16 +1092,102 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/sites/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.384615">
+        <state vertical-scroll-proportion="0.0">
           <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/sites_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35460994">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="79" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13114753">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap-social.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="124" selection-start-line="9" selection-start-column="124" selection-end-line="9" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/resumes.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="89" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/sites.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/static_pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="52" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sites/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14010508">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/medium/medium_scraper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/site.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>

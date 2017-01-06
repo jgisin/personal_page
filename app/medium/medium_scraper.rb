@@ -10,7 +10,7 @@ class MediumScraper
   end
 
   def get_posts
-    @index.search('article.postArticle')
+    @index.search('.postArticle')
   end
 
   def num_posts
@@ -18,7 +18,7 @@ class MediumScraper
   end
 
   def post_link(index)
-    @posts[index].children[0].attributes['href'].value
+    @posts[index].children[2].children[0].attributes['href'].value
   end
 
   def post_text(index)
